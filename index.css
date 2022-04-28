@@ -1,0 +1,330 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(185, 179, 179);
+}
+span{
+    color:rgb(40, 143, 161)
+}
+.All{
+    background-color: rgb(245, 243, 243);
+    margin-top: -40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.section1{
+    display: flex;
+    list-style: none;
+    margin-top: 80px;
+    
+}
+.logo{
+    margin-left: 100px;
+    margin-top: 40px;
+    display: flex;
+}
+.list{
+    margin-left: 150px;
+    margin-top: 40px;
+   color: rgb(63, 104, 150);
+}
+.list li{
+    display: inline;
+    list-style: none;
+    padding: 40px;
+}
+.b1{
+    margin-left:90px;
+    margin-top:40px ;
+}
+button{
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 50px;
+}
+.first{
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+}
+.first p{
+    padding: 7px;
+}
+.pp{
+    background-color: yellow;
+    border-radius: 50px;
+}
+.pp2{
+    background-color:rgb(40, 143, 161);
+    border-radius: 50px;
+    margin-left: 20px;
+}
+.make{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.make2{
+    color:rgb(40, 143, 161) ;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.make3{
+    margin-left:100px ;
+    display: flex;
+    margin-top: 20px;
+}
+.contact{
+    margin-left: 100px;
+    margin-right: 1010px;
+    background-color: rgb(40, 143, 161);
+    padding: 7px;
+    border-radius: 20px;
+    margin-top: 30px;
+    
+}
+.logoo{
+    display: flex;
+    background-color: rgb(216, 219, 221);
+    margin-left: 240px;
+    margin-right: 840px;
+   margin-top: -35px;
+   margin-bottom: -30px;
+   border-radius: 50px;
+}
+.splash{
+    margin-left: 550px;
+    margin-top: -250px;
+    background: no-repeat;
+    background-image: url(splash-removebg-preview.png);
+}
+.num{
+    display: flex;
+    margin-top: 20px;
+}
+.num1{
+margin-left: 120px;
+}
+.num2{
+  margin-left: 240px;
+}
+.num3{
+    margin-left: 240px;
+
+}
+.tags{
+    display: flex;
+    margin-top: 50px;
+}
+.tag1{
+ margin-left: 90px;
+}
+.tag2{
+ margin-left: 200px;
+}
+.tag3{
+margin-left: 200px;
+}
+.tag4{
+ margin-left: 200px;
+}
+.this{
+    font-size: 35px;
+}
+.services{
+    text-align: center;
+    margin-top: 70px;
+}
+.ser{
+    display: flex;
+    margin-left: 550px;
+}
+.sav{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 18px;
+    
+}
+.eye{
+    background-color: purple;
+    border-radius: 100px;
+    margin-right: 220px;
+    margin-left: 10px;
+
+}
+.laptop{
+    background-color: white;
+    border-radius: 100px;
+    margin-right: 250px;
+
+}
+.star{
+    background-color: rgb(243, 214, 49);
+    border-radius: 100px;
+    margin-right: 200px;
+    
+}
+.service1{
+    background-color:rgb(234, 245, 243) ;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+.service2{
+margin-left: 0;
+background-color:rgb(41, 161, 143);
+padding-left: 20px;
+padding-right: 30px;
+padding-bottom: 30px;
+}
+.service3{
+margin-left: 0;
+background-color: rgb(204, 226, 224);
+padding-left: 20px;
+padding-right: 80px;
+padding-bottom: 30px;
+
+}
+.awesome{
+    display: flex;
+    margin-left: 190px;
+    margin-top: 80px;
+}
+.second{
+    background: no-repeat;
+    background-image: url(colors-removebg-preview.png);
+}
+.how{
+    color:rgb(41, 161, 143) ;
+}
+.some{
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.we{
+    display: flex;
+}
+.samee{
+    margin-top: 10px;
+}
+.paragraph{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.p1{
+    background-color: rgb(211, 211, 209);
+    border-radius: 50px;
+}
+.p2{
+    margin-top: 30px;
+}
+.p3{
+    margin-top: 30px;
+}
+.p1 span{
+    background-color: rgb(41, 161, 143);
+    color: black;
+    border-radius:500px;
+    padding: 5px;
+}
+.p2 span{
+   background-color: skyblue;
+   color: black;
+   border-radius: 100px;
+padding: 5px;
+}
+.p3 span{
+     background-color: goldenrod;
+     color: black;
+     border-radius: 100px;
+     padding: 5px;
+}
+.section2{
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+
+}
+
+.up{
+    text-align: center;
+    
+}
+
+
+.tion{
+    font-size: 22px;
+}
+.up2 h1{
+    font-size: 100px;
+}
+.tion2{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.tion3{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 20px;
+    background-color:rgb(41, 161, 143) ;
+    margin-right: 500px;
+    padding-left: 10px;
+    border-radius: 20px;
+    padding: 6px;
+}
+.tion5{
+    margin-left: 40px;
+    background-color:rgb(65, 65, 221);
+    border-radius: 20px;
+}
+.section3{
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 18px;
+}
+.rej{
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.how{
+    display: flex;
+}
+.space{
+    margin-left: 30px;
+    background-color:rgb(248, 239, 239) ;
+    padding-left: 20px;
+    width: 400px;
+    padding: 8px;
+}
+.last{
+    margin-left: 630px;
+    margin-top: -450px;
+    background: no-repeat;
+    background-image: url(circle.jpeg);
+}
+.message{
+    background-color: rgb(41, 161, 143);
+    padding-left: 15px;
+    margin-right: 940px;
+    border-radius: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+
+
+
+
